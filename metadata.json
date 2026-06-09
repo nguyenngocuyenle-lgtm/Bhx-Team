@@ -1,0 +1,6 @@
+{
+  "name": "Bach Hoa Xanh Finder",
+  "description": "Ứng dụng tìm kiếm cửa hàng Bách Hóa Xanh gần đây trong bán kính 5km với đánh giá cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

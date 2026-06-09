@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bach Hoa Xanh Finder</string>
+    <string name="search_hint">Tìm cửa hàng Bách Hóa Xanh...</string>
+    <string name="distance_filter">Bán kính: %s km</string>
+    <string name="rating_filter">Đánh giá tối thiểu: %s ★</string>
+    <string name="sim_mode">Đang mô phỏng vị trí (TP.HCM)</string>
+    <string name="real_mode">Vị trí thực tế chính xác</string>
+    <string name="store_closest">%s cách %s m</string>
+    <string name="store_details">Chi tiết cửa hàng</string>
+</resources>
